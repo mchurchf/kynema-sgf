@@ -1,0 +1,14 @@
+.. meta::c62d2545ded9a5cff9514e1db5f9443db4b9de36006a8212f193ed967487afe7032d9f43331997ccc5c7ec438cff5d1917a8883030b80339d99d34ff3b8b43c8
+
+:orphan:
+
+.. title:: Kynema-SGF API: Namespace List
+
+Namespace List
+==============
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: namespaces.html

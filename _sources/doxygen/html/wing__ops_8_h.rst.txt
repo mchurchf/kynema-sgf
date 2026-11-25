@@ -1,0 +1,14 @@
+.. meta::0d1761028594de0effdd258860dba4d300a2e55d9d1a0788f5bb4c076395041016d881d104e58123c61c6a766a26151779317e2ec7a0cd8cc8599834c1ae7813
+
+:orphan:
+
+.. title:: Kynema-SGF API: /home/runner/work/kynema-sgf/kynema-sgf/src/actuator/wing/wing_ops.H File Reference
+
+/home/runner/work/kynema-sgf/kynema-sgf/src/actuator/wing/wing\_ops.H File Reference
+====================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: wing__ops_8_h.html

@@ -1,0 +1,14 @@
+.. meta::ebbb8a006d8bc1b016956bbf2b022e95bd144dc6e37a7430170e6528c25a5e36d663fa6e6028055ecf70bf9797d57974a0af0d5b1a4b7a2d8825588fda67d909
+
+:orphan:
+
+.. title:: Kynema-SGF API: /home/runner/work/kynema-sgf/kynema-sgf/src/actuator/wing/fixed_wing_ops.H File Reference
+
+/home/runner/work/kynema-sgf/kynema-sgf/src/actuator/wing/fixed\_wing\_ops.H File Reference
+===========================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: fixed__wing__ops_8_h.html

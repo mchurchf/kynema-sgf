@@ -1,0 +1,14 @@
+.. meta::d335ba351a047f1603d1e837de25b6bdaf186b6b1b2cb5c85b345f90c35445c33c08fc535eb9f50f2d205a5526954ffa11f2260e1611ddbf3ce6abf5b883d4c5
+
+:orphan:
+
+.. title:: Kynema-SGF API: /home/runner/work/kynema-sgf/kynema-sgf/src/actuator/actuator_restart.H File Reference
+
+/home/runner/work/kynema-sgf/kynema-sgf/src/actuator/actuator\_restart.H File Reference
+=======================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: actuator__restart_8_h.html

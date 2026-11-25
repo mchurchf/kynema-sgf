@@ -1,0 +1,14 @@
+.. meta::658cc48718d2fbd0e456b9d7ccbea9346836d0c6e2befc63cca945c46e6e60693550f28588db271e0d20ad6f4b582389cdffbea2596c14b24c120a82e0e59f9c
+
+:orphan:
+
+.. title:: Kynema-SGF API: /home/runner/work/kynema-sgf/kynema-sgf/src/actuator/turbine/external/turbine_external_ops.H Source File
+
+/home/runner/work/kynema-sgf/kynema-sgf/src/actuator/turbine/external/turbine\_external\_ops.H Source File
+==========================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: turbine__external__ops_8_h_source.html

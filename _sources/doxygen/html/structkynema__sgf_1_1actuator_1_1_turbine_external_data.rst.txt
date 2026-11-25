@@ -1,0 +1,14 @@
+.. meta::a00af60915ef66b0b1ec6a8b0f028821d751583e77e974774689414d3dc4a2e538aed4f5d217147abb1953d747485a437597b49313759b625316dfc64a95b8e2
+
+:orphan:
+
+.. title:: Kynema-SGF API: kynema_sgf::actuator::TurbineExternalData&lt; SolverTurbine, SolverData &gt; Struct Template Reference
+
+TurbineExternalData&lt; SolverTurbine, SolverData &gt; Struct Template Reference
+================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: structkynema__sgf_1_1actuator_1_1_turbine_external_data.html

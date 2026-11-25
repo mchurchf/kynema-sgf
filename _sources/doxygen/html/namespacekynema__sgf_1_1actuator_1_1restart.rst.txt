@@ -1,0 +1,14 @@
+.. meta::ef7c47a5733febb0bffd55e5e5135ee641f8a907305cb8888d8fd0540d160f2a5059e2554d3770e011fc2c1ca8a74f1e3fda031bd85f82e45a95cb3c5f2ba4cd
+
+:orphan:
+
+.. title:: Kynema-SGF API: kynema_sgf::actuator::restart Namespace Reference
+
+restart Namespace Reference
+===========================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: namespacekynema__sgf_1_1actuator_1_1restart.html

@@ -1,0 +1,14 @@
+.. meta::8512f2080096dd0b4cdbe07bbbde58862e2a24138592b0d89a00da428d38b53c0ac3f03ceda03a6d1e8549c860c8dd4379fc92145eea397729177ae559c65f11
+
+:orphan:
+
+.. title:: Kynema-SGF API: /home/runner/work/kynema-sgf/kynema-sgf/src/actuator/Actuator.H Source File
+
+/home/runner/work/kynema-sgf/kynema-sgf/src/actuator/Actuator.H Source File
+===========================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _actuator_8_h_source.html

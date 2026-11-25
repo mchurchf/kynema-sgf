@@ -1,0 +1,14 @@
+.. meta::fc14760c1b2adbd4b371690200c265148cb883688f4760988419b40641eb9efba7a90c93d95ad832d088334565298e5e4f81ed750bfe781f57340e4cc0d89f81
+
+:orphan:
+
+.. title:: Kynema-SGF API: kynema_sgf::actuator::wing Namespace Reference
+
+wing Namespace Reference
+========================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: namespacekynema__sgf_1_1actuator_1_1wing.html

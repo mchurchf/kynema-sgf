@@ -1,0 +1,14 @@
+.. meta::c7b0a028f8befb7f916fe7e787cfd32effeeff538b0825632c27d74af3fd00ea11c5dba3b881a1786ee637d41011e646677e8ccd8b04dca93ce6078e8289c3e4
+
+:orphan:
+
+.. title:: Kynema-SGF API: kynema_sgf::actuator::ops Namespace Reference
+
+ops Namespace Reference
+=======================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: namespacekynema__sgf_1_1actuator_1_1ops.html
